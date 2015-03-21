@@ -1,0 +1,16 @@
+mysql:
+  environment:
+    MYSQL_ROOT_PASSWORD: 3Hmz5u2d552Mk
+  image: mysql
+  ports:
+    - "3309:3306"
+  volumes:
+    - db/mysql/:/var/lib/mysql
+
+redis:
+  image: redis
+  volumes:
+    - db/redis/:/data
+  ports:
+    - "6399:6379"
+

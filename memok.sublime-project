@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/jekas/dev/lang/nodejs/sails/apps/memok",
+			"folder_exclude_patterns": ["bower_components","node_modules", "assets/vendor"]
+
+		}
+	]
+}

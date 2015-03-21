@@ -1,0 +1,7 @@
+foo: bar
+NODE_ENV: production
+database: { host: '127.0.0.1', port: 5984 }
+ext:
+	- *.js
+	- *.html
+	- *.doc 

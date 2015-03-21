@@ -1,0 +1,19 @@
+{
+    "Error.Passport.Password.Invalid": "Le mot de passe est invalide",
+    "Error.Passport.Password.Wrong": "Le mot de passe n'est pas correcte",
+    "Error.Passport.Password.NotSet": "Oh no, you haven't set a password yet!",
+    "Error.Passport.Username.NotFound": "Ce compte n'existe pas",
+    "Error.Passport.User.Exists": "This username is already taken.",
+    "Error.Passport.Email.NotFound": "That email doesn't seem right",
+    "Error.Passport.Email.Missing": "You need to supply an email-address for verification",
+    "Error.Passport.Email.Exists": "This email already exists. So try logging in.",
+    "Error.Passport.Username.Missing": "Vous devez spécifiez un compte",
+    "Error.Passport.Password.Missing": "Vous devez spécifiez un mot de passe",
+    "Error.Passport.Generic": "Snap. Something went wrong with authorization.",
+    "Error.SMS.Send": "Le sms n'a pas pu etre envoyé",
+    "Error.SMS.Invalid.Number": "Le numero n'est pas valide.",
+    "Success.SMS.sent": "Le sms a été envoyé",
+    "Error.SMS.quota": "Le quota SMS est atteint. Veuillez contactez l'administrateur",
+    "Error.SMS.unvailable": "Ne peut pas envoyer de SMS",
+    "Success.Snap.Posted": "Le snap a ete ajouter a votre story"
+}

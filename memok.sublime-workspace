@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"get",
+				"getUpdates"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"sta",
+				"static_token"
+			],
+			[
+				"post",
+				"postCall"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"sto",
+				"story_response"
+			],
+			[
+				"st",
+				"story"
+			],
+			[
+				"fina",
+				"filename"
+			],
+			[
+				"Ser",
+				"ServiceSnapChat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "memok.sublime-project",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/services/protocols/ssh.js",
+			"settings":
+			{
+				"buffer_size": 4346,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"fixm",
+				"FixMyJS"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jekas/dev/lang/nodejs/sails/apps/memok"
+	],
+	"file_history":
+	[
+		"/home/jekas/dev/lang/nodejs/sails/apps/memok/assets/src/app/snap/snap-service.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/app.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/ipbox.sublime-project",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/main.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/common/services/auth.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/login/login.tpl.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/login/login-controller.js",
+		"/home/jekas/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/home/backup-dialog.tpl.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/home/home.tpl.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/package.json",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/gulp-css-rebase-urls/css/style.css",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/Settings.StyleCop",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/jshint-stylish/stylish.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/underscore.string/stripTags.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/s.js",
+		"/home/jekas/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/d.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/backup.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/home/home-controller.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/bower_components/angular-material/LICENSE",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/backup/backup-controller.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/layout/layout.scss",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/home/home.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/layout/layout.tpl.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/common/services/generic.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/backup/details.tpl.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/backup/backup.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/backup/details-controller.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/lodash/collection/min.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/account/account-controller.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/index.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/layout/material-design-icon.css",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/account/account.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/backup/backup.tpl.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/login/login.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/ssh2/node_modules/readable-stream/passthrough.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/ssh2/node_modules/ssh2-streams/lib/ssh.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/ssh2/test/fixtures/ssh_host_rsa_key",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/protractor/docs/server-setup.md",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/glob/sync.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/node-sass/test/fixtures/spec/spec/libsass/bourbon/lib/helpers/_gradient-positions-parser.scss",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/common/constants/api.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/common/services/req.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/layout/layout.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/gulp-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/wiredep/node_modules/bower-config/node_modules/mout/object/hasOwn.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/chai/lib/chai/utils/addProperty.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/layout/layout-controller.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/yargs/example/line_count_options.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/lodash/utility/matches.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/gulp-concat/node_modules/through/LICENSE.APACHE2",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/rimraf/AUTHORS",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/lay/layout.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/build/app/index.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/bower_components/angular-material/index.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/report/index.html",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/lodash/lang/isNative.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/app/game/game.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/build.config.js",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/node_modules/gulp/node_modules/vinyl-fs/test/fixtures/bom-utf16be.txt",
+		"/home/jekas/dev/lang/javascript/angularjs/apps/ipbox/bower.json",
+		"/home/jekas/dev/lang/nodejs/sails/apps/snapchat/views/layout.ejs",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/layout/layout-controller.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/.tmp/public/src/app/layout/layout.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/layout/layout.scss",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/.tmp/public/src/app/app.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/api/controllers/AuthController.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/api/services/protocols/ssh.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/api/services/protocols/index.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/config/routes.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bower/node_modules/insight/lib/providers.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/config/env/production.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bluebird/js/main/promise_resolver.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bower/node_modules/handlebars/print-script",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/npm/test/tap/config-private.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/views/layout.ejs",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/bower_components/angular-material/LICENSE",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/config/passport.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/api/services/passport.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/login/login.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bower/node_modules/retry/lib/retry_operation.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/views/auth/login.ejs",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/login/login-controller.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/home/home.tpl.html",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/home/home.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/app/app.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/styles/app.scss",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/app.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/config/env/development.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/api/policies/passport.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/config/models.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/thebounty/config/env/production.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bower/node_modules/mout/date/parseIso.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/config/i18n.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/grunt/lib/grunt/task.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/gulp-jshint/node_modules/lodash/array/take.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bower/node_modules/tmp/test-all.sh",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/.bin/thumb",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/tasks/register/linkAssetsBuild.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/tasks/register/linkAssets.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bluebird/js/main/assert.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/build/assert-shim.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/src/tests/game/game-service_test.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/.bower-registry/bower.herokuapp.com/lookup/angular-sails_c5864",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/gulp-if/node_modules/through2/node_modules/xtend/.jshintrc",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/connect-redis/index.html",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/bcryptjs/index.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/wiredep/lib/inject-dependencies.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/node_modules/gulp-util/lib/isNull.js",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/assets/vendor/angular-material/modules/closure/progressCircular/progressCircular.css",
+		"/home/jekas/dev/lang/nodejs/atom-shell/apps/memok/app/styles/app.scss",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/thebounty/app.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/app.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/assets/src/app/layout/layout.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/thebounty/views/layout.ejs",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/thebounty/api/controllers/HomeController.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/thebounty/.bower-registry/bower.herokuapp.com/lookup/angular-ui-router_8d538",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/assets/src/app/home/home-controller.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/assets/src/app/home/home.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/node_modules/gulp-util/lib/isNull.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/node_modules/wiredep/lib/inject-dependencies.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/bower_components/angular-material/index.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/config/i18n.js",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/views/layout.ejs",
+		"/home/jekas/dev/lang/nodejs/sails/apps/iptech/node_modules/gulp/node_modules/liftoff/appveyor.yml"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"",
+			">\n",
+			"glob",
+			");\n",
+			"OK",
+			")\\\\*.",
+			"extensions",
+			"\"",
+			"backup",
+			"Backup",
+			"backup",
+			"\"",
+			"<md-button ng-click=\"logout()\" class=\"text-white\" aria-label=\"Logoff\">\n                <i class=\"md-2x md-settings-power\"></i>\n            </md-button>\n            ",
+			"<md-button ng-click=\"logout()\" class=\"text-white\" aria-label=\"Logoff\">\n                <i class=\"md-2x md-settings-power\"></i>\n            </md-button>",
+			"add",
+			"plus",
+			"police",
+			">",
+			"index.",
+			"noti",
+			"ssh",
+			"account",
+			".authenticate",
+			"authenticate",
+			"authenti",
+			"snapchat",
+			"file",
+			"file://' + __dirname + '/app/index.html",
+			"thebounty",
+			"5",
+			"snapchat",
+			"authbas",
+			"utilisateur",
+			"comptes",
+			"parse",
+			"getupdates",
+			"updates",
+			"3627197574756735564A",
+			"x-ww",
+			"e.login",
+			"> ",
+			"boxed",
+			".login = ",
+			"find_fr",
+			"e.postca",
+			"story",
+			"Sailssock",
+			"= Sailssock",
+			"Sailssock",
+			".request",
+			"this.request",
+			".prototype.get",
+			".get",
+			"Story",
+			"post",
+			"Q",
+			"post",
+			"story",
+			"fin",
+			"dat.b",
+			"add",
+			"e.post",
+			"addfre",
+			"addF",
+			"friends"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"details",
+			"'",
+			"login",
+			"ipbox",
+			"thebounty",
+			"admin",
+			"joueurs",
+			"yellow"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "memok.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 89
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/services/protocols/ssh.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1209,
+								1209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 61
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "memok.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ssh",
+				"api/services/protocols/ssh.js"
+			],
+			[
+				"auth",
+				"app/common/services/auth.js"
+			],
+			[
+				"logint",
+				"app/login/login.tpl.html"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"app",
+				"app/app.js"
+			],
+			[
+				"login",
+				"app/login/login-controller.js"
+			],
+			[
+				"home-con",
+				"app/home/home-controller.js"
+			],
+			[
+				"min",
+				"node_modules/lodash/collection/min.js"
+			],
+			[
+				"main.",
+				"main.js"
+			],
+			[
+				"login.tpl",
+				"app/login/login.tpl.html"
+			],
+			[
+				"login-con",
+				"app/login/login-controller.js"
+			],
+			[
+				"mai",
+				"main.js"
+			],
+			[
+				"home",
+				"app/home/home.js"
+			],
+			[
+				"home.j",
+				"app/home/home.js"
+			],
+			[
+				"app.js",
+				"app/app.js"
+			],
+			[
+				"login-cont",
+				"app/login/login-controller.js"
+			],
+			[
+				"mate",
+				"app/layout/material-design-icon.css"
+			],
+			[
+				"layout",
+				"app/layout/layout.js"
+			],
+			[
+				"index",
+				"build/app/index.html"
+			],
+			[
+				"build",
+				"gulp/build.js"
+			],
+			[
+				"layout-con",
+				"assets/src/app/layout/layout-controller.js"
+			],
+			[
+				"layo",
+				"views/layout.ejs"
+			],
+			[
+				"roue",
+				"config/routes.js"
+			],
+			[
+				"login.js",
+				"assets/src/app/login/login.js"
+			],
+			[
+				"home.js",
+				"assets/src/app/home/home.js"
+			],
+			[
+				"route",
+				"config/routes.js"
+			],
+			[
+				"deve",
+				"config/env/development.js"
+			],
+			[
+				"pipe",
+				"tasks/pipeline.js"
+			],
+			[
+				"layou",
+				"views/layout.ejs"
+			],
+			[
+				"assetsinde",
+				"assets/src/app/index.html"
+			],
+			[
+				"app.scs",
+				"assets/styles/app.scss"
+			],
+			[
+				"assetsapp",
+				"assets/src/app/app.js"
+			],
+			[
+				"layouttpl",
+				"assets/src/app/layout/layout.tpl.html"
+			],
+			[
+				"injec",
+				"tasks/config/inject.js"
+			],
+			[
+				"assapp.",
+				"assets/src/app/app.js"
+			],
+			[
+				"user.",
+				".tmp/public/src/app/common/services/user.js"
+			],
+			[
+				"game/",
+				"assets/src/app/game/game-controller.js"
+			],
+			[
+				"gametpl",
+				"assets/src/app/game/game.tpl.html"
+			],
+			[
+				"hometpl",
+				"assets/src/app/home/home.tpl.html"
+			],
+			[
+				"game-con",
+				"assets/src/app/game/game-controller.js"
+			],
+			[
+				"ayout",
+				"views/layout.ejs"
+			],
+			[
+				"inj",
+				"tasks/config/inject.js"
+			],
+			[
+				"production",
+				"config/env/production.js"
+			],
+			[
+				"prod",
+				"tasks/register/prod.js"
+			],
+			[
+				"concat",
+				"tasks/config/concat.js"
+			],
+			[
+				"account-ser",
+				"assets/src/app/account/account-service.js"
+			],
+			[
+				"app/app",
+				"assets/src/app/app.js"
+			],
+			[
+				"layout.js",
+				"assets/src/app/layout/layout.js"
+			],
+			[
+				"home-cont",
+				"assets/src/app/home/home-controller.js"
+			],
+			[
+				"direcsrc",
+				"assets/src/app/common/directives/src.js"
+			],
+			[
+				"home-c",
+				"assets/src/app/home/home-controller.js"
+			],
+			[
+				"gen",
+				"assets/src/app/common/services/generic.js"
+			],
+			[
+				"auth.js",
+				"assets/src/app/common/services/auth.js"
+			],
+			[
+				"auth.sj",
+				"assets/src/app/common/services/auth.js"
+			],
+			[
+				"gener",
+				"assets/src/app/common/services/generic.js"
+			],
+			[
+				"story-ser",
+				"assets/src/app/story/story-service.js"
+			],
+			[
+				"-service",
+				"assets/src/app/story/story-service.js"
+			],
+			[
+				"snap-ser",
+				"assets/src/app/snap/snap-service.js"
+			],
+			[
+				"loginc-ton",
+				"node_modules/sails/node_modules/prompt/node_modules/winston/test/fixtures/scripts/log-string-exception.js"
+			],
+			[
+				"accout-",
+				"assets/src/app/account/account-controller.js"
+			],
+			[
+				"story-con",
+				"assets/src/app/story/story-controller.js"
+			],
+			[
+				"snap-cont",
+				"assets/src/app/snap/snap-controller.js"
+			],
+			[
+				"pro",
+				"config/env/production.js"
+			],
+			[
+				"defaul",
+				"tasks/register/default.js"
+			],
+			[
+				"snapcon",
+				"api/controllers/SnapController.js"
+			],
+			[
+				"styl",
+				"styles/style.css"
+			],
+			[
+				"sty",
+				"styles/style.css"
+			],
+			[
+				"ajou",
+				"admin/users/ajout.php"
+			],
+			[
+				"st",
+				"styles/style.css"
+			],
+			[
+				"head",
+				"objects/header.php"
+			],
+			[
+				"admin",
+				"admin/index.php"
+			],
+			[
+				"servicesn",
+				"api/services/ServiceSnapChat.js"
+			],
+			[
+				"snapser",
+				"assets/src/app/snap/snap-service.js"
+			],
+			[
+				"clients",
+				"node_modules/snapchat/client.js"
+			],
+			[
+				"cliens",
+				"node_modules/validator/test/client-side.js"
+			],
+			[
+				"snap",
+				"node_modules/snapchat/snapchat.js"
+			],
+			[
+				"snapcno",
+				"~dev/lang/nodejs/sails/apps/snapchat/api/controllers/SnapController.js"
+			],
+			[
+				"snapcha",
+				"node_modules/snapchat/snapchat.js"
+			],
+			[
+				"confidev",
+				"config/env/development.js"
+			],
+			[
+				"client",
+				"node_modules/snapchat/client.js"
+			],
+			[
+				"snapch",
+				"api/services/ServiceSnapChat.js"
+			],
+			[
+				"sna",
+				"api/models/Snap.js"
+			],
+			[
+				"snaptpl",
+				"assets/src/app/snap/snap.tpl.html"
+			],
+			[
+				"srcapp",
+				"assets/src/app/app.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"angular-sa",
+				"assets/vendor/angular-sails/dist/angular-sails.js"
+			],
+			[
+				"watch",
+				"tasks/config/watch.js"
+			],
+			[
+				"auth-ser",
+				"assets/src/common/services/auth-service.js"
+			],
+			[
+				"dev",
+				"config/env/development.js"
+			],
+			[
+				"cli",
+				"node_modules/snapchat/client.js"
+			],
+			[
+				"snapc",
+				"node_modules/snapchat/snapchat.js"
+			],
+			[
+				"clean",
+				"tasks/config/clean.js"
+			],
+			[
+				"servicest",
+				"api/services/ServiceStorage.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/jekas/dev/lang/nodejs/sails/apps/memok"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
